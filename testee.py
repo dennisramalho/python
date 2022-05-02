@@ -1,0 +1,4 @@
+comprimento_da_pista = 8000
+numero_total_de_voltas_a_serem_percorridas = 50
+numero_de_abastecimentos_desejados = 
+consumo_de_combustivel_do_carro = 10000
