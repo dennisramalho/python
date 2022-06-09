@@ -8,7 +8,7 @@ VOTOS_LULA = 0
 while True:
     # apresente os candidatos    
     print ('*'*20)
-    print(f'TOTAL BOLSONARO:{VOTOS_BOLSONARO}{os.linesep}TOTAL LULA:{VOTOS_LULA}')
+    print(f'[on blue]TOTAL BOLSONARO:[/]{VOTOS_BOLSONARO}{os.linesep}[on red]TOTAL LULA:[/]{VOTOS_LULA}')
     print ('*'*20)
     # permita votar
     try:        
